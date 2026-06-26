@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SHIVAM000008/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SHIVAM000008/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHIVAM000008/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
@@ -30,4 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/SHIVAM000008/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SHIVAM000008/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SHIVAM000008/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
